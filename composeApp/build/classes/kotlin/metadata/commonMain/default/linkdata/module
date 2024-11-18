@@ -1,0 +1,2 @@
+
+<composeApp_commonMain>:$com.workdev.taskmoveis.ui.navigation:)com.workdev.taskmoveis.ui.screens.details:&com.workdev.taskmoveis.ui.screens.home:"kmp.composeapp.generated.resources:org.example.kmp:org.example.kmp.Models:org.example.kmp.di

@@ -1,0 +1,56 @@
+org.example.kmp.composeApp-lifecycle-livedata-2.8.5-0 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\022bd2bf2203a0781948771d79251265\transformed\lifecycle-livedata-2.8.5\res
+org.example.kmp.composeApp-lifecycle-livedata-core-2.8.5-1 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05fe039f951cb46bc7b2350b3fcbebe6\transformed\lifecycle-livedata-core-2.8.5\res
+org.example.kmp.composeApp-emoji2-views-helper-1.3.0-2 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\0b57b3cc3fdf0f6db1ef6cef3c5324ac\transformed\emoji2-views-helper-1.3.0\res
+org.example.kmp.composeApp-appcompat-1.6.1-3 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1350f86314518c03dd736b2c513d8174\transformed\appcompat-1.6.1\res
+org.example.kmp.composeApp-lifecycle-process-2.8.5-4 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\res
+org.example.kmp.composeApp-foundation-layout-release-5 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16bae8bae44f7d1e965a5fced66e88b3\transformed\foundation-layout-release\res
+org.example.kmp.composeApp-profileinstaller-1.3.1-6 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\res
+org.example.kmp.composeApp-core-runtime-2.2.0-7 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1fb4c8d56c785a6f480941797b80ec58\transformed\core-runtime-2.2.0\res
+org.example.kmp.composeApp-lifecycle-runtime-release-8 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2add5aad886af5e37fc3bd7c98753b69\transformed\lifecycle-runtime-release\res
+org.example.kmp.composeApp-lifecycle-viewmodel-release-9 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2ed94212ae0577d6082e0bcdb6453ac0\transformed\lifecycle-viewmodel-release\res
+org.example.kmp.composeApp-ui-tooling-release-10 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\res
+org.example.kmp.composeApp-core-ktx-1.13.1-11 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3a30acfb5bb7c77b10df72c2213f4666\transformed\core-ktx-1.13.1\res
+org.example.kmp.composeApp-activity-ktx-1.9.3-12 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3e571cf685c74a21c99a14a881c379cd\transformed\activity-ktx-1.9.3\res
+org.example.kmp.composeApp-ui-graphics-release-13 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3f63f330543d6a7fb916d4d15cdc3446\transformed\ui-graphics-release\res
+org.example.kmp.composeApp-annotation-experimental-1.4.1-14 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\460a251b77c731a7b87f89c1b49e92e9\transformed\annotation-experimental-1.4.1\res
+org.example.kmp.composeApp-startup-runtime-1.1.1-15 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\res
+org.example.kmp.composeApp-customview-poolingcontainer-1.0.0-16 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4923a05d28f3f61215d84a4d2f9e9b96\transformed\customview-poolingcontainer-1.0.0\res
+org.example.kmp.composeApp-material-ripple-release-17 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4ad5ba4f5a18747e649b6087d070d86a\transformed\material-ripple-release\res
+org.example.kmp.composeApp-emoji2-1.3.0-18 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\res
+org.example.kmp.composeApp-lifecycle-viewmodel-ktx-2.8.5-19 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\560cd4418c2a0519a2b252100aa2f0aa\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+org.example.kmp.composeApp-ui-unit-release-20 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5dc3a1ff03b93c5ebd2a9f82330c3034\transformed\ui-unit-release\res
+org.example.kmp.composeApp-material-release-21 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5ecc94f286229f03ce4f4edcf45081a8\transformed\material-release\res
+org.example.kmp.composeApp-runtime-release-22 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\63d075653e297c37e390b4a7fb970731\transformed\runtime-release\res
+org.example.kmp.composeApp-lifecycle-livedata-core-ktx-2.8.5-23 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\67f669953d4e0dc57cefe906ffce93c3\transformed\lifecycle-livedata-core-ktx-2.8.5\res
+org.example.kmp.composeApp-graphics-path-1.0.1-24 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6ed490439df57a937e6ce4236418207d\transformed\graphics-path-1.0.1\res
+org.example.kmp.composeApp-foundation-release-25 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6f9710990942b934a37d58c46e832669\transformed\foundation-release\res
+org.example.kmp.composeApp-runtime-saveable-release-26 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6fc583fadedd21afe38ceb070b99990c\transformed\runtime-saveable-release\res
+org.example.kmp.composeApp-ui-util-release-27 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\71390c3448f110acc607f67db8cbed24\transformed\ui-util-release\res
+org.example.kmp.composeApp-fragment-ktx-1.6.2-28 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7838d178544e61c316c5c1a0018a032e\transformed\fragment-ktx-1.6.2\res
+org.example.kmp.composeApp-savedstate-1.2.1-29 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7a67a539bd3c9bdc5fdb0571da5fa566\transformed\savedstate-1.2.1\res
+org.example.kmp.composeApp-activity-compose-1.9.3-30 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8615db50170ed3eb4f5b707d11586e06\transformed\activity-compose-1.9.3\res
+org.example.kmp.composeApp-ui-tooling-data-release-31 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8d61525b43c973dc1c8f1343c78343da\transformed\ui-tooling-data-release\res
+org.example.kmp.composeApp-core-1.13.1-32 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\res
+org.example.kmp.composeApp-material-icons-core-release-33 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\963f24a48799aa7ffc36cc30b3944de6\transformed\material-icons-core-release\res
+org.example.kmp.composeApp-lifecycle-viewmodel-savedstate-2.8.5-34 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9866aacc2b19971154b4d92b4f2d0917\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+org.example.kmp.composeApp-lifecycle-runtime-ktx-release-35 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99a2f69f92bdc65e9cc8c02e2a743c6f\transformed\lifecycle-runtime-ktx-release\res
+org.example.kmp.composeApp-fragment-1.6.2-36 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99c5118382b7cd73153ce4d9e084eed1\transformed\fragment-1.6.2\res
+org.example.kmp.composeApp-lifecycle-runtime-compose-release-37 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a50f07bcf001486e1dbce191dbaa8d37\transformed\lifecycle-runtime-compose-release\res
+org.example.kmp.composeApp-ui-release-38 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a8dd31e274771d55ec57a0a9f5c23ae2\transformed\ui-release\res
+org.example.kmp.composeApp-activity-1.9.3-39 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\b407c862b63aedb34f4812ed8ff618ff\transformed\activity-1.9.3\res
+org.example.kmp.composeApp-ui-text-release-40 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c41c509956f525b681db923a52a636bf\transformed\ui-text-release\res
+org.example.kmp.composeApp-appcompat-resources-1.6.1-41 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c6013242359ab7675976bbedf48c6b5d\transformed\appcompat-resources-1.6.1\res
+org.example.kmp.composeApp-ui-tooling-preview-release-42 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dc87a4bfee4780388928728d2397a4ce\transformed\ui-tooling-preview-release\res
+org.example.kmp.composeApp-animation-core-release-43 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\ddc26a454725d2ad3f2bde1d3384cd70\transformed\animation-core-release\res
+org.example.kmp.composeApp-savedstate-ktx-1.2.1-44 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\df233cc55d3379e64e96290cc7001e5e\transformed\savedstate-ktx-1.2.1\res
+org.example.kmp.composeApp-ui-geometry-release-45 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dfdc6706656312b80b0cfe9b49709008\transformed\ui-geometry-release\res
+org.example.kmp.composeApp-animation-release-46 C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\f6db69c34120b4777eb7e4b2b0df25b1\transformed\animation-release\res
+org.example.kmp.composeApp-pngs-47 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\build\generated\res\pngs\debug
+org.example.kmp.composeApp-resValues-48 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\build\generated\res\resValues\debug
+org.example.kmp.composeApp-packageDebugResources-49 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.example.kmp.composeApp-packageDebugResources-50 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.example.kmp.composeApp-debug-51 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\build\intermediates\merged_res\debug\mergeDebugResources
+org.example.kmp.composeApp-androidDebug-52 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidDebug\res
+org.example.kmp.composeApp-androidMain-53 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\res
+org.example.kmp.composeApp-debug-54 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\debug\res
+org.example.kmp.composeApp-main-55 D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\main\res

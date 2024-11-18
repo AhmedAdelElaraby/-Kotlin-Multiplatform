@@ -7,6 +7,8 @@ plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.composeMultiplatform)
     alias(libs.plugins.composeCompiler)
+    alias(libs.plugins.kotlinX.serialization.plugin)
+    id ("kotlinx-serialization")
 }
 
 kotlin {
@@ -40,6 +42,16 @@ kotlin {
         androidMain.dependencies {
             implementation(compose.preview)
             implementation(libs.androidx.activity.compose)
+
+            //
+            implementation(libs.koin.core)
+            implementation(libs.koin.compose)
+            implementation(libs.koin.android)
+            implementation(libs.ktor.android)
+             implementation(libs.koin.android)
+
+
+
         }
         commonMain.dependencies {
             implementation(compose.runtime)
@@ -50,10 +62,20 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.viewmodel)
             implementation(libs.androidx.lifecycle.runtime.compose)
+
+            api(libs.ktor.core)
+            implementation(libs.ktor.contentNegotiation)
+            implementation(libs.ktor.json)
+            implementation(libs.ktor.logging)
+            implementation(libs.kotlinX.serializationJson)
+
+
+
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)
             implementation(libs.kotlinx.coroutines.swing)
+            implementation(libs.ktor.java)
         }
     }
 }

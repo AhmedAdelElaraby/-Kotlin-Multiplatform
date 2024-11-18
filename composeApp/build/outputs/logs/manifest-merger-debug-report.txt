@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+MERGED from [io.insert-koin:koin-android:3.5.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5f2ad9158098e7de0bdef4599b4d7691\transformed\koin-android-3.5.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c6013242359ab7675976bbedf48c6b5d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1350f86314518c03dd736b2c513d8174\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99c5118382b7cd73153ce4d9e084eed1\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7838d178544e61c316c5c1a0018a032e\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\b407c862b63aedb34f4812ed8ff618ff\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.compose.material:material-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5ecc94f286229f03ce4f4edcf45081a8\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\ddc26a454725d2ad3f2bde1d3384cd70\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4ad5ba4f5a18747e649b6087d070d86a\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\f6db69c34120b4777eb7e4b2b0df25b1\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16bae8bae44f7d1e965a5fced66e88b3\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6f9710990942b934a37d58c46e832669\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8d61525b43c973dc1c8f1343c78343da\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5dc3a1ff03b93c5ebd2a9f82330c3034\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3f63f330543d6a7fb916d4d15cdc3446\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dfdc6706656312b80b0cfe9b49709008\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\71390c3448f110acc607f67db8cbed24\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c41c509956f525b681db923a52a636bf\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dc87a4bfee4780388928728d2397a4ce\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\963f24a48799aa7ffc36cc30b3944de6\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a8dd31e274771d55ec57a0a9f5c23ae2\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3e571cf685c74a21c99a14a881c379cd\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8615db50170ed3eb4f5b707d11586e06\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9cd418b828285019088a9e796708671d\transformed\library-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\bac9c71a7e533d3c5b5f24f199aa414a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\70a2bf9d3be6f24e2568cf1423410318\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a2a66c5021c95ec9009e99676913ea07\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\59cf1e8106ea6920d20913ed83a184e1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\891564783b68ee156c2069bffa3e2260\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1d3d91bb1bb83c15d89ee57a55e63f74\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\0b57b3cc3fdf0f6db1ef6cef3c5324ac\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\035c4f8418b8d39d4098847712b8859a\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4923a05d28f3f61215d84a4d2f9e9b96\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3a30acfb5bb7c77b10df72c2213f4666\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6ed490439df57a937e6ce4236418207d\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99a2f69f92bdc65e9cc8c02e2a743c6f\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\022bd2bf2203a0781948771d79251265\transformed\lifecycle-livedata-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\560cd4418c2a0519a2b252100aa2f0aa\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\67f669953d4e0dc57cefe906ffce93c3\transformed\lifecycle-livedata-core-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05fe039f951cb46bc7b2350b3fcbebe6\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2add5aad886af5e37fc3bd7c98753b69\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a50f07bcf001486e1dbce191dbaa8d37\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05643512a79865e023b73cd93aa2730b\transformed\lifecycle-viewmodel-2.8.5\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2ed94212ae0577d6082e0bcdb6453ac0\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9866aacc2b19971154b4d92b4f2d0917\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7a67a539bd3c9bdc5fdb0571da5fa566\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\df233cc55d3379e64e96290cc7001e5e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6fc583fadedd21afe38ceb070b99990c\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\63d075653e297c37e390b4a7fb970731\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\460a251b77c731a7b87f89c1b49e92e9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8e2be1be45d77b120e74b7079cdeb11c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a91d423b0a433aaed02349ee852d5f7b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1fb4c8d56c785a6f480941797b80ec58\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c07d0ade2cc5c916743c667ca8c88c6\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\aaa4836e34f53f07bb92514a02a3f6df\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:4:5-21:19
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:4:5-21:19
+MERGED from [io.insert-koin:koin-android:3.5.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5f2ad9158098e7de0bdef4599b4d7691\transformed\koin-android-3.5.3\AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.5.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5f2ad9158098e7de0bdef4599b4d7691\transformed\koin-android-3.5.3\AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:7:5-14:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8e2be1be45d77b120e74b7079cdeb11c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8e2be1be45d77b120e74b7079cdeb11c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:10:9-72
+activity#org.example.kmp.MainActivity
+ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+MERGED from [io.insert-koin:koin-android:3.5.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5f2ad9158098e7de0bdef4599b4d7691\transformed\koin-android-3.5.3\AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.5.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5f2ad9158098e7de0bdef4599b4d7691\transformed\koin-android-3.5.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c6013242359ab7675976bbedf48c6b5d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c6013242359ab7675976bbedf48c6b5d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1350f86314518c03dd736b2c513d8174\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1350f86314518c03dd736b2c513d8174\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99c5118382b7cd73153ce4d9e084eed1\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99c5118382b7cd73153ce4d9e084eed1\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7838d178544e61c316c5c1a0018a032e\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7838d178544e61c316c5c1a0018a032e\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\b407c862b63aedb34f4812ed8ff618ff\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\b407c862b63aedb34f4812ed8ff618ff\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5ecc94f286229f03ce4f4edcf45081a8\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5ecc94f286229f03ce4f4edcf45081a8\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\ddc26a454725d2ad3f2bde1d3384cd70\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\ddc26a454725d2ad3f2bde1d3384cd70\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4ad5ba4f5a18747e649b6087d070d86a\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4ad5ba4f5a18747e649b6087d070d86a\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\f6db69c34120b4777eb7e4b2b0df25b1\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\f6db69c34120b4777eb7e4b2b0df25b1\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16bae8bae44f7d1e965a5fced66e88b3\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16bae8bae44f7d1e965a5fced66e88b3\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6f9710990942b934a37d58c46e832669\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6f9710990942b934a37d58c46e832669\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8d61525b43c973dc1c8f1343c78343da\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8d61525b43c973dc1c8f1343c78343da\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5dc3a1ff03b93c5ebd2a9f82330c3034\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\5dc3a1ff03b93c5ebd2a9f82330c3034\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3f63f330543d6a7fb916d4d15cdc3446\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3f63f330543d6a7fb916d4d15cdc3446\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dfdc6706656312b80b0cfe9b49709008\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dfdc6706656312b80b0cfe9b49709008\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\71390c3448f110acc607f67db8cbed24\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\71390c3448f110acc607f67db8cbed24\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c41c509956f525b681db923a52a636bf\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\c41c509956f525b681db923a52a636bf\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dc87a4bfee4780388928728d2397a4ce\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\dc87a4bfee4780388928728d2397a4ce\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\963f24a48799aa7ffc36cc30b3944de6\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\963f24a48799aa7ffc36cc30b3944de6\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a8dd31e274771d55ec57a0a9f5c23ae2\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a8dd31e274771d55ec57a0a9f5c23ae2\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3e571cf685c74a21c99a14a881c379cd\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3e571cf685c74a21c99a14a881c379cd\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8615db50170ed3eb4f5b707d11586e06\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8615db50170ed3eb4f5b707d11586e06\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9cd418b828285019088a9e796708671d\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9cd418b828285019088a9e796708671d\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\bac9c71a7e533d3c5b5f24f199aa414a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\bac9c71a7e533d3c5b5f24f199aa414a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\70a2bf9d3be6f24e2568cf1423410318\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\70a2bf9d3be6f24e2568cf1423410318\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a2a66c5021c95ec9009e99676913ea07\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a2a66c5021c95ec9009e99676913ea07\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\59cf1e8106ea6920d20913ed83a184e1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\59cf1e8106ea6920d20913ed83a184e1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\891564783b68ee156c2069bffa3e2260\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\891564783b68ee156c2069bffa3e2260\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1d3d91bb1bb83c15d89ee57a55e63f74\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1d3d91bb1bb83c15d89ee57a55e63f74\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\0b57b3cc3fdf0f6db1ef6cef3c5324ac\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\0b57b3cc3fdf0f6db1ef6cef3c5324ac\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\035c4f8418b8d39d4098847712b8859a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\035c4f8418b8d39d4098847712b8859a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4923a05d28f3f61215d84a4d2f9e9b96\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\4923a05d28f3f61215d84a4d2f9e9b96\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3a30acfb5bb7c77b10df72c2213f4666\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3a30acfb5bb7c77b10df72c2213f4666\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6ed490439df57a937e6ce4236418207d\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6ed490439df57a937e6ce4236418207d\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99a2f69f92bdc65e9cc8c02e2a743c6f\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\99a2f69f92bdc65e9cc8c02e2a743c6f\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\022bd2bf2203a0781948771d79251265\transformed\lifecycle-livedata-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\022bd2bf2203a0781948771d79251265\transformed\lifecycle-livedata-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\560cd4418c2a0519a2b252100aa2f0aa\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\560cd4418c2a0519a2b252100aa2f0aa\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\67f669953d4e0dc57cefe906ffce93c3\transformed\lifecycle-livedata-core-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\67f669953d4e0dc57cefe906ffce93c3\transformed\lifecycle-livedata-core-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05fe039f951cb46bc7b2350b3fcbebe6\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05fe039f951cb46bc7b2350b3fcbebe6\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2add5aad886af5e37fc3bd7c98753b69\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2add5aad886af5e37fc3bd7c98753b69\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a50f07bcf001486e1dbce191dbaa8d37\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a50f07bcf001486e1dbce191dbaa8d37\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05643512a79865e023b73cd93aa2730b\transformed\lifecycle-viewmodel-2.8.5\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\05643512a79865e023b73cd93aa2730b\transformed\lifecycle-viewmodel-2.8.5\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2ed94212ae0577d6082e0bcdb6453ac0\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\2ed94212ae0577d6082e0bcdb6453ac0\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9866aacc2b19971154b4d92b4f2d0917\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\9866aacc2b19971154b4d92b4f2d0917\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7a67a539bd3c9bdc5fdb0571da5fa566\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\7a67a539bd3c9bdc5fdb0571da5fa566\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\df233cc55d3379e64e96290cc7001e5e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\df233cc55d3379e64e96290cc7001e5e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6fc583fadedd21afe38ceb070b99990c\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\6fc583fadedd21afe38ceb070b99990c\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\63d075653e297c37e390b4a7fb970731\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\63d075653e297c37e390b4a7fb970731\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\460a251b77c731a7b87f89c1b49e92e9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\460a251b77c731a7b87f89c1b49e92e9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8e2be1be45d77b120e74b7079cdeb11c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\8e2be1be45d77b120e74b7079cdeb11c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a91d423b0a433aaed02349ee852d5f7b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\a91d423b0a433aaed02349ee852d5f7b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1fb4c8d56c785a6f480941797b80ec58\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\1fb4c8d56c785a6f480941797b80ec58\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c07d0ade2cc5c916743c667ca8c88c6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c07d0ade2cc5c916743c667ca8c88c6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\aaa4836e34f53f07bb92514a02a3f6df\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\aaa4836e34f53f07bb92514a02a3f6df\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KMP\App-Kmp\-Kotlin-Multiplatform\composeApp\src\androidMain\AndroidManifest.xml
+provider#org.jetbrains.compose.resources.AndroidContextProvider
+ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:8:9-13:20
+	android:enabled
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:11:13-35
+	android:authorities
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:10:13-84
+	android:exported
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\3c3f688c568f9fb185b95956010c2bd4\transformed\library-release\AndroidManifest.xml:9:13-82
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\330171ee89033658e78aadd216170040\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\48fd4df52cd045e73bed534676d19209\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\54dbf1fc4c454dc8aac7d9f1e94d7449\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#org.example.kmp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#org.example.kmp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\944ee8802cb896482bd83bbf761522f0\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\16728d1464ddf969aa433a6214f56714\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MG Marketing2\.gradle\caches\8.9\transforms\18dc75ab1051d14db23121091229f79d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
